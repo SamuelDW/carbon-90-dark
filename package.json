@@ -1,0 +1,20 @@
+{
+  "name": "carbon-90-dark",
+  "version": "1.0.0",
+  "description": "Carbon 90 theme as a dark mode",
+  "main": "index.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-90-dark"
+  },
+  "bugs": "https://github.com/SamuelDW/carbon-90-dark/issues",
+  "keywords": [
+    "carbon",
+    "carbon 90 theme",
+    "scss",
+    "small",
+    "dark mode"
+  ],
+  "author": "Samuel Durrant-Walker",
+  "license": "ISC"
+}
